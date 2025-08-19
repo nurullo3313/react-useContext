@@ -45,3 +45,62 @@ header .cart{
   cursor: pointer;
  
 }
+
+
+
+.product-card{
+    width: 300px;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid black;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+}
+.product-card img{
+    width: 250px;
+    height: 300px;
+    
+}
+.product-card h1{
+    font-size: 20px;
+}
+.product-card button{
+    background-color: cadetblue;
+    padding: 5px 20px;
+    border-radius: 5px;
+    border: 1px solid black;
+    cursor: pointer;
+    transition: 0.5s;
+
+}
+.product-card button:active{
+    background-color:  #fff;
+
+}
+.like-icon{
+    position: absolute;
+    top: 4%;
+    right: 4%;
+    font-size: 40px;
+}
+
+.products-container{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 50px;
+  margin: 40px auto;
+}
+.footer{
+  width: 100%;
+  padding:20px 200px;
+  background-color: gray;
+  color: #fff;
+  box-sizing: border-box;
+  font-size: 35px;
+  font-weight: bold;
+}

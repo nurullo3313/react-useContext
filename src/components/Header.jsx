@@ -8,8 +8,8 @@ export default function Header() {
 
   return (
     <header>
-       <h1 onClick={navigate("/")} >Shop</h1> 
-       <div onClick={navigate("/cart")} className='cart' >
+       <h1 onClick={()=>navigate("/")} >Shop</h1> 
+       <div onClick={()=>navigate("/cart")} className='cart' >
             <BsCart4 className='icon-cart'/>
             <span>0</span>
        </div>
