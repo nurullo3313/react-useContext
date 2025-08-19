@@ -1,0 +1,158 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Samsung s24",
+            "storage": 256,
+            "ram": 12,
+            "price": 150,
+            "liked": false,
+            "imgPod": "./images/tel-1.png",
+            "category": "tel",
+            "quantity": 1
+        },
+        {
+            "id": 2,
+            "name": "Redmi not 14 pro +",
+            "storage": 256,
+            "ram": 12,
+            "price": 100,
+            "liked": false,
+            "imgPod": "./images/tel-2.png",
+            "category": "tel",
+            "quantity": 1
+        },
+        {
+            "id": 3,
+            "name": "Honor x9c",
+            "storage": 128,
+            "ram": 8,
+            "price": 80,
+            "liked": false,
+            "imgPod": "./images/tel-3.png",
+            "category": "tel",
+            "quantity": 1
+        },
+        {
+            "id": 4,
+            "name": "Infinix hot 50",
+            "storage": 256,
+            "ram": 12,
+            "price": 150,
+            "liked": false,
+            "imgPod": "./images/tel-4.png",
+            "category": "tel",
+            "quantity": 1
+        },
+        {
+            "id": 5,
+            "name": "Iphoe 16pro max",
+            "storage": 256,
+            "ram": 12,
+            "price": 1000,
+            "liked": false,
+            "imgPod": "./images/tel-4.png",
+            "category": "tel",
+            "quantity": 1
+        },
+        {
+            "id": 6,
+            "name": "Lenovo",
+            "storage": 256,
+            "ram": 12,
+            "price": 150,
+            "liked": false,
+            "imgPod": "./images/plan-1.jpg",
+            "category": "tablet",
+            "quantity": 1
+        },
+        {
+            "id": 7,
+            "name": "Samsung tab 9s",
+            "storage": 256,
+            "ram": 16,
+            "price": 200,
+            "liked": false,
+            "imgPod": "./images/plan-2.jpeg",
+            "category": "tablet",
+            "quantity": 1
+        },
+        {
+            "id": 8,
+            "name": "Xiaomi pad 6 pro",
+            "storage": 256,
+            "ram": 12,
+            "price": 150,
+            "liked": false,
+            "imgPod": "./images/plan-3.png",
+            "category": "tablet",
+            "quantity": 1
+        },
+        {
+            "id": 9,
+            "name": "iPad pro",
+            "storage": 512,
+            "ram": 16,
+            "price": 1600,
+            "liked": false,
+            "imgPod": "./images/plan-4.jpg",
+            "category": "tablet",
+            "quantity": 1
+        },
+        {
+            "id": 10,
+            "name": "Redmi tab 7",
+            "storage": 128,
+            "ram": 12,
+            "price": 200,
+            "liked": false,
+            "imgPod": "./images/plan-5.png",
+            "category": "tablet",
+            "quantity": 1
+        },
+        {
+            "id": 11,
+            "name": "Asus rog game",
+            "storage": 1000,
+            "ram": 32,
+            "price": 2000,
+            "liked": false,
+            "imgPod": "./images/lap-1.png",
+            "category": "laptop",
+            "quantity": 1
+        },
+        {
+            "id": 12,
+            "name": "Acer",
+            "storage": 512,
+            "ram": 8,
+            "price": 450,
+            "liked": false,
+            "imgPod": "./images/lap-2.png",
+            "category": "laptop",
+            "quantity": 1
+        },
+        {
+            "id": 13,
+            "name": "Hp probook",
+            "storage": 1000,
+            "ram": 16,
+            "price": 700,
+            "liked": false,
+            "imgPod": "./images/lap-3.png",
+            "category": "laptop",
+            "quantity": 1
+        },
+        {
+            "id": 14,
+            "name": "Mac book m4 pro",
+            "storage": 1000,
+            "ram": 12,
+            "price": 2200,
+            "liked": false,
+            "imgPod": "./images/lap-4.png",
+            "category": "laptop",
+            "quantity": 1
+        }
+    ]
+}

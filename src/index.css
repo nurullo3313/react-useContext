@@ -1,0 +1,47 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+header{
+  width: 100%;
+  background-color: gray;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 200px;
+  box-sizing: border-box;
+}
+
+header h1{
+  font-size:30px;
+  font-family: fantasy;
+  font-weight: lighter;
+}
+
+header .cart{
+  display: flex;
+  gap: 5px;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  position: relative;
+  cursor: pointer;
+}
+
+.cart span{
+  position: absolute;
+  top: -5px;
+  right: -7px;
+  font-size: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  background-color: red;
+  width: 10px;
+  height: 10px;
+  padding: 5px;
+  cursor: pointer;
+ 
+}
